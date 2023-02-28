@@ -1,0 +1,10 @@
+checkpoints/*
+!.gitkeep
+
+dataset/*
+!.gitkeep
+
+__pycache__
+.ipynb_checkpoints
+
+.token
