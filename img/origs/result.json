@@ -1,0 +1,79 @@
+{
+  "images": [
+    {
+      "width": 5184,
+      "height": 3888,
+      "id": 0,
+      "file_name": "DJI_20211229125123_0012_Z.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "crack"
+    },
+    {
+      "id": 1,
+      "name": "fistula"
+    },
+    {
+      "id": 2,
+      "name": "rupture"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 0,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1560,
+        2387,
+        90,
+        98
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 8820
+    },
+    {
+      "id": 1,
+      "image_id": 0,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        2300,
+        1864,
+        61,
+        291
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 17751
+    },
+    {
+      "id": 2,
+      "image_id": 0,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1132,
+        963,
+        300,
+        335
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 100500
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "description": "",
+    "contributor": "Label Studio",
+    "url": "",
+    "date_created": "2023-03-01 11:49:52.284524"
+  }
+}
