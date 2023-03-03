@@ -5,6 +5,12 @@
       "height": 3888,
       "id": 0,
       "file_name": "DJI_20211229125123_0012_Z.JPG"
+    },
+    {
+      "width": 5184,
+      "height": 3888,
+      "id": 1,
+      "file_name": "46_7_9b5c.jpg"
     }
   ],
   "categories": [
@@ -58,14 +64,164 @@
       "category_id": 2,
       "segmentation": [],
       "bbox": [
-        1132,
+        1119,
         963,
-        300,
+        346,
         335
       ],
       "ignore": 0,
       "iscrowd": 0,
-      "area": 100500
+      "area": 115910
+    },
+    {
+      "id": 3,
+      "image_id": 0,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        1881,
+        1096,
+        55,
+        399
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 21945
+    },
+    {
+      "id": 4,
+      "image_id": 0,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        1636,
+        2755,
+        94,
+        91
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 8554
+    },
+    {
+      "id": 5,
+      "image_id": 0,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        314,
+        1695,
+        75,
+        78
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 5850
+    },
+    {
+      "id": 6,
+      "image_id": 1,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        1361,
+        2012,
+        163,
+        140
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 22820
+    },
+    {
+      "id": 7,
+      "image_id": 1,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        3010,
+        1662,
+        42,
+        216
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 9072
+    },
+    {
+      "id": 8,
+      "image_id": 1,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        3750,
+        1597,
+        163,
+        140
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 22820
+    },
+    {
+      "id": 9,
+      "image_id": 1,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        3207,
+        562,
+        147,
+        140
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 20580
+    },
+    {
+      "id": 10,
+      "image_id": 1,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        2719,
+        801,
+        42,
+        212
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 8904
+    },
+    {
+      "id": 11,
+      "image_id": 1,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        3158,
+        2146,
+        58,
+        75
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 4350
+    },
+    {
+      "id": 12,
+      "image_id": 1,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        4192,
+        1037,
+        52,
+        65
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 3380
     }
   ],
   "info": {
@@ -74,6 +230,6 @@
     "description": "",
     "contributor": "Label Studio",
     "url": "",
-    "date_created": "2023-03-01 11:49:52.284524"
+    "date_created": "2023-03-03 11:47:09.067803"
   }
 }
